@@ -1,0 +1,15 @@
+# SeekGain 析境科技AI量化平台
+
+SeekGain 析境科技是国内首个个人AI量化平台，也是连接量化研究者、AI 开发者和投资实践者的国内最大AI量化社群之一。
+
+## 文章
+
+- 当 Alpha 开始影响价格：SEER 如何用符号回归拆出非线性市场冲击
+  - URL: /articles/seer-symbolic-regression-market-impact.html
+  - 摘要: 讨论交易信号反身性、符号回归、非线性市场冲击和可解释 Alpha 反馈建模。
+  - 关键词: SEER, 符号回归, Alpha, 市场冲击, AI量化。
+
+- LLM 直接写量化策略，到底靠不靠谱？
+  - URL: /articles/llm-quant-strategy-reliability.html
+  - 摘要: 结合 Backtrader、QuantCode-Bench 和策略回测流程，分析 LLM 写量化策略的真实能力边界。
+  - 关键词: LLM量化策略, Backtrader, QuantCode-Bench, 策略回测, AI量化。
